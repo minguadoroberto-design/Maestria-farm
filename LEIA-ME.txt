@@ -1,0 +1,7 @@
+TREINO AUTOFARM - mod Forge 1.20.2 (somente cliente)
+Joga sozinho os minigames da Sala do Tempo (Mr. Popo): Gravidade, Controle, Ritmo e Precisao.
+
+USAR:
+ 1) Aperte F8 para ligar o bot (aparece no chat; dentro do minigame mostra "BOT LIGADO" no canto).
+ 2) Abra o treino normalmente. Quando o minigame comecar, ele joga sozinho.
+ 3) F8 de novo desliga. (Tecla pode ser trocada em Opcoes > Controles > Treino AutoFarm.)
